@@ -169,7 +169,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  width: 1110px;
 }
 
 .table__cell {
